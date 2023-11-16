@@ -1,0 +1,46 @@
+*{
+    padding :0;
+    margin :0;
+  }
+  
+  #title{
+    font-size :80px;
+   font-family:arial;
+    color :rgba(100,0,200,0.7);
+    padding-bottom :20px;
+  }
+  
+  body{
+    text-align :center;
+    background-color :rgba(0,0,200,0.1);
+  }
+
+  .label{
+    font-family :arial;
+    font-size :25px;
+    padding-bottom :10px;
+  }
+  
+  .input{
+    font-family:monospace;
+    border :none;
+    border-radius :10px;
+    font-size :20px;
+    padding :10px;
+    width : 300px;
+    text-align: center;
+    }
+  
+  #m-label , #s-label{
+    padding-top : 10px;
+  }
+  
+  .btn{
+    font-size :20px;
+    font-family :arial;
+    padding :7px;
+    color :#fff;
+    background-color :rgba(0,0,200,0.6);
+    border-radius :5px;
+    border :none;
+  }
